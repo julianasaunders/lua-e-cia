@@ -63,7 +63,34 @@ A interface do aplicativo foi planejada com uma identidade visual moderna em ton
 
 ---
 
+## 📂 Materiais disponíveis
+
+| Arquivo | O que apresenta |
+|---|---|
+| [📕 Documentação de Requisitos.pdf](Documenta%C3%A7%C3%A3o%20de%20Requisitos.pdf) | Documento de requisitos do sistema (v1.0). |
+| [💻 lua&cia_c++.cpp](lua%26cia_c%2B%2B.cpp) | Código em C++ desenvolvido para o projeto. |
+| [🖼️ lua&cia_logo.png](lua%26cia_logo.png) | Logotipo do aplicativo. |
+| [🖼️ lua&cia_visita.jpeg](lua%26cia_visita.jpeg) | Registro da visita à protetora. |
+| [🎨 prototipo.png](prototipo.png) | Protótipo da interface do aplicativo. |
+
+---
+
 ## 📄 Referências e Documentação
 
 * Documento de Requisitos do Sistema v1.0 (20/05/2026).
 * Orientação acadêmica do Prof. Adriano Elias Daniel (**Fatec Itapetininga**).
+
+---
+
+## 🤝 Como contribuir
+
+- [📜 Código de Conduta](CODE_OF_CONDUCT.md)
+- [🛠️ Guia de Contribuição](CONTRIBUTING.md)
+
+---
+
+*Projeto de Engenharia de Software I — Fatec Itapetininga · 2026*
+
+---
+
+[💻 Perfil de Juliana Saunders](https://github.com/julianasaunders)
