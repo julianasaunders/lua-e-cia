@@ -91,6 +91,3 @@ A interface do aplicativo foi planejada com uma identidade visual moderna em ton
 
 *Projeto de Engenharia de Software I — Fatec Itapetininga · 2026*
 
----
-
-[💻 Perfil de Juliana Saunders](https://github.com/julianasaunders)
