@@ -16,10 +16,10 @@ O **Lua & Cia** é um aplicativo mobile focado no catálogo de animais para ado�
 
 O projeto está sendo desenvolvido por alunos da **Fatec Itapetininga**:
 * **Equipe Dev:**
-  * Juliana Saunders
-  * Kauã Oliveira
-  * Lázaro Cares
-  * Reinaldo Gomes
+  * Juliana Saunders: [@julianasaunders](https://github.com/julianasaunders)
+  * Kauã Oliveira: [@kaua0083](https://github.com/kaua0083)
+  * Lázaro Cares: [@LPCares](https://github.com/LPCares)
+  * Reinaldo Gomes: [@reinaldo31wjm](https://github.com/reinaldo31wjm)
 * **Cliente / Protetora:** Vitória Albuquerque
 
 ---
